@@ -48,7 +48,7 @@ export default function App() {
             Tu compra ha sido procesada con total éxito y seguridad. ¡Queremos agradecerte enormemente por tu confianza en nuestro trabajo!
           </p>
           <p className="text-slate-400 text-xs sm:text-sm">
-            Hemos preparado este material con el más alto estándar táctico para llevar tus entrenamientos de fútbol sala al siguiente nivel profesional. Acabas de tomar la mejor decisión para el desarrollo de tus jugadores.
+            Hemos preparado este material con el más alto estándar táctico para llevar tus entrenamientos de fútbol al siguiente nivel profesional. Acabas de tomar la mejor decisión para el desarrollo de tus jugadores.
           </p>
           <div className="bg-slate-950/50 border border-slate-850 p-4 rounded-xl text-xs text-orange-400 font-mono flex items-center justify-center gap-2">
             <span className="h-2 w-2 rounded-full bg-orange-500 animate-ping"></span>
@@ -61,7 +61,7 @@ export default function App() {
           <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 text-xs text-slate-500 font-mono">
             <span>ID: <strong className="text-slate-400">#FUT-77291B</strong></span>
             <span>ESTADO: <strong className="text-emerald-400">APROBADO</strong></span>
-            <span>SOPORTE: <strong className="text-slate-400">contacto@entrenamientodefutbolsala.com</strong></span>
+            <span>SOPORTE: <strong className="text-slate-400">contacto@entrenamientosdefutbol.com</strong></span>
           </div>
         </div>
 
