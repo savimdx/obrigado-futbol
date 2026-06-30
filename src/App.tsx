@@ -61,7 +61,7 @@ export default function App() {
           <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 text-xs text-slate-500 font-mono">
             <span>ID: <strong className="text-slate-400">#FUT-77291B</strong></span>
             <span>ESTADO: <strong className="text-emerald-400">APROBADO</strong></span>
-            <span>SOPORTE: <strong className="text-slate-400">contacto@entrenamientosdefutbol.com</strong></span>
+            <span>SOPORTE: <strong className="text-slate-400">contacto@entrenamientosdefutbol.online</strong></span>
           </div>
         </div>
 
